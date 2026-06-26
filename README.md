@@ -21,7 +21,7 @@ Intrigued to build towards the intersection of AI agents , data science and fina
 
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumiya-sunilkumar-4003b7381/?skipRedirect=true)
 [![Unstop](https://img.shields.io/badge/Unstop-7B2FBE?style=flat&logo=unstop&logoColor=white)](https://unstop.com/u/soumisun39030)
 
 
