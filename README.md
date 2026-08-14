@@ -21,7 +21,7 @@
 **[InboxOS](https://github.com)** — *Contributor*
 An open-source, AI-powered email operating system. I work on the outputs layer — charts, digest generation, and integrations (Telegram/Slack/Discord) — while leveling up my backend and Git collaboration skills.
 
-**SmartHire** — *Co-Builder (Backend)*
+**[Onboardly](https://github.com/Soumiya-33/Onboardly)** — *Co-Builder (Backend)*
 Building an AI-powered resume screening tool with one other developer. I own the backend — handling resume parsing and the scoring logic that ranks candidates using AI.
 
 **[Momentum AI](https://github.com)** — *Vibe-coded @ Hackathon (Vibe2Skill)*
