@@ -24,7 +24,7 @@ An open-source, AI-powered email operating system. I work on the outputs layer �
 **[Onboardly](https://github.com/Soumiya-33/Onboardly)** — *Co-Builder (Backend)*
 Building an AI-powered resume screening tool with one other developer. I own the backend — handling resume parsing and the scoring logic that ranks candidates using AI.
 
-**[Momentum AI](https://github.com)** — *Vibe-coded @ Hackathon (Vibe2Skill)*
+**[Momentum AI](https://github.com/Soumiya-33/Momentum-AI)** — *Vibe-coded @ Hackathon (Vibe2Skill)*
 A deadline planner and risk tracker built solo during Vibe2Skill — it tracks ongoing deadlines, helps plan around them, and flags risk when things are likely to slip.
 
 **[rag-core](https://github.com/Soumiya-33/rag-core)** — *Currently building (learning project)*
