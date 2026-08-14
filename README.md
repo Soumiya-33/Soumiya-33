@@ -18,7 +18,7 @@
 
 ### 🚀 Projects
 
-**[InboxOS](https://github.com)** — *Contributor*
+**[InboxOS](https://github.com/Soumiya-33/InboxOS)** — *Contributor*
 An open-source, AI-powered email operating system. I work on the outputs layer — charts, digest generation, and integrations (Telegram/Slack/Discord) — while leveling up my backend and Git collaboration skills.
 
 **[Onboardly](https://github.com/Soumiya-33/Onboardly)** — *Co-Builder (Backend)*
