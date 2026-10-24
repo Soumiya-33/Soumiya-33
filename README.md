@@ -9,9 +9,6 @@
 ### 🧭 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science at VESIT
-- 🧱 Before writing code, I think in architecture — I'd rather spend extra time planning the structure and design of a project than rebuild it twice
-- 🌱 Currently deepening my backend + AI engineering fundamentals — Python, FastAPI, RAG pipelines, and LLM tooling
-- 🤝 Actively contributing to open-source projects to learn real-world engineering practices
 - 💬 Open to contributing, collaborating, and learning from anyone willing to build together
 
 ---
